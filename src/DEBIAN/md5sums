@@ -255,10 +255,10 @@ ce6bb19c44450fe8abc6ff323ae2340b  /usr/lib/PinguyBuilder/boot/grub/grub.cfg
 d4478ae7afc82d34c317576f57be78fe  /usr/bin/plymouth-preview
 53d1437e1fbf3663ae32f71ab145a102  /usr/bin/PinguyBuilder-gtk
 3687f43f13d277c8dc95a29ffda91ad6  /usr/bin/PinguyBuilder-skelcopy
-f12b3cda6c3f7d5006dceec71efa00d5  /usr/bin/PinguyBuilder
+0225d3e442a0ba76191712729d8f20d0  /usr/bin/PinguyBuilder
 c3467eaf8e3fee76922d67697776754b  /usr/share/applications/PinguyBuilder-gtk.desktop
 b6f9fa33acc7efd5e169d189c0f21d1c  /usr/share/applications/PinguyBuilder-gtk-kde.desktop
-81d1bf00264445a3c156eb93ddff584f  /usr/share/PinguyBuilder-gtk/ui/PinguyBuilder-gtk.glade
+21095877bcd8c10cb776c2bc80f42360  /usr/share/PinguyBuilder-gtk/ui/PinguyBuilder-gtk.glade
 5c004423328bd61aaa02b5eb910eded1  /usr/share/PinguyBuilder-gtk/pixmaps/PinguyBuilder-gtk.png
 0a4b5571083912606f1b675f0e0bdd31  /usr/share/icons/hicolor/22x22/apps/PinguyBuilder-gtk.png
 9c38dc868015f0a0dc486085f3ffb278  /usr/share/icons/hicolor/48x48/apps/PinguyBuilder-gtk.png
