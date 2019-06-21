@@ -2,7 +2,7 @@
 0c705126eee97f29f2b24b889ec52e4f  /usr/lib/python2.7/dist-packages/PinguyBuilder_gtk-3.0.4.egg-info/PKG-INFO
 1fe7cb24d0da0149279d5232820b2936  /usr/lib/python2.7/dist-packages/PinguyBuilder_gtk-3.0.4.egg-info/top_level.txt
 68b329da9893e34099c7d8ad5cb9c940  /usr/lib/python2.7/dist-packages/PinguyBuilder_gtk-3.0.4.egg-info/dependency_links.txt
-f0e23b2e53ce239b76099223c6d1bc00  /usr/lib/python2.7/dist-packages/PinguyBuildergtk/PinguyBuilder_gtk.py
+e40a59a021388368b15a38e49b2e95b7  /usr/lib/python2.7/dist-packages/PinguyBuildergtk/PinguyBuilder_gtk.py
 1db7aa09c2bda1d08b0f7b61a54a2e2d  /usr/lib/PinguyBuilder/EFI/BOOT/bootia32.efi
 6e94c3d33194c89bd327bfaa5871e294  /usr/lib/PinguyBuilder/EFI/BOOT/BOOTx64.EFI
 7dc5588d483932c1215cc6ff785ceb36  /usr/lib/PinguyBuilder/EFI/BOOT/grubx64.efi
@@ -255,7 +255,7 @@ ce6bb19c44450fe8abc6ff323ae2340b  /usr/lib/PinguyBuilder/boot/grub/grub.cfg
 d4478ae7afc82d34c317576f57be78fe  /usr/bin/plymouth-preview
 53d1437e1fbf3663ae32f71ab145a102  /usr/bin/PinguyBuilder-gtk
 3687f43f13d277c8dc95a29ffda91ad6  /usr/bin/PinguyBuilder-skelcopy
-0225d3e442a0ba76191712729d8f20d0  /usr/bin/PinguyBuilder
+4eb1d1c29064134752c4695c72a8826d  /usr/bin/PinguyBuilder
 c3467eaf8e3fee76922d67697776754b  /usr/share/applications/PinguyBuilder-gtk.desktop
 b6f9fa33acc7efd5e169d189c0f21d1c  /usr/share/applications/PinguyBuilder-gtk-kde.desktop
 21095877bcd8c10cb776c2bc80f42360  /usr/share/PinguyBuilder-gtk/ui/PinguyBuilder-gtk.glade
