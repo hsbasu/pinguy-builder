@@ -251,11 +251,11 @@ f8e05502b990c1463a39a04582995a68  /usr/lib/PinguyBuilder/boot/grub/x86_64-efi/ls
 a28976a8bd8a9b2ec722556058cd7f01  /usr/lib/PinguyBuilder/boot/grub/font.pf2
 b355d3fcbbe02e64dec7d4c8f7ec17f7  /usr/lib/PinguyBuilder/boot/grub/loopback.cfg
 87619e2d80fa7c93bc7a5a2adc70ed03  /usr/lib/PinguyBuilder/boot/grub/efi.img
-ce6bb19c44450fe8abc6ff323ae2340b  /usr/lib/PinguyBuilder/boot/grub/grub.cfg
+92883fcc4b5642d72ef9c3076bc58092  /usr/lib/PinguyBuilder/boot/grub/grub.cfg
 d4478ae7afc82d34c317576f57be78fe  /usr/bin/plymouth-preview
 53d1437e1fbf3663ae32f71ab145a102  /usr/bin/PinguyBuilder-gtk
 3687f43f13d277c8dc95a29ffda91ad6  /usr/bin/PinguyBuilder-skelcopy
-4eb1d1c29064134752c4695c72a8826d  /usr/bin/PinguyBuilder
+fbe6d60b5fa5d6a77b2baef1cc734932  /usr/bin/PinguyBuilder
 c3467eaf8e3fee76922d67697776754b  /usr/share/applications/PinguyBuilder-gtk.desktop
 b6f9fa33acc7efd5e169d189c0f21d1c  /usr/share/applications/PinguyBuilder-gtk-kde.desktop
 21095877bcd8c10cb776c2bc80f42360  /usr/share/PinguyBuilder-gtk/ui/PinguyBuilder-gtk.glade
